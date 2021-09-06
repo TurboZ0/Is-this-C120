@@ -1,0 +1,58 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    box-shadow:5px 5px 15px grey;
+    text-shadow: 2px 2px red;
+  }
+  .heading_div
+  {
+    float: none;
+    border-radius: 20px; 
+    color: black;
+    font-size: 17px;
+    box-shadow:5px 5px 15px grey;
+  }
+  .heading_div_inside 
+  {
+    font-size: 18px ;
+    text-shadow: 1px 1px 1px black, 0 0 24px blue, 0px 0px 5px darkblue;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 15px grey;
+    text-shadow: 2px 2px green;
+    color: orangered;
+    font-size: 20px;
+  }
+  #result_name:hover {
+background-color: rgb(74, 74, 228);
+font-size: 25px;
+color: coral;
+  }
+  #result_number:hover {
+    background-color: greenyellow;
+    font-size: 25px;
+    color: coral;
+  }
+
+.copy_right_footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 101%;
+  line-height: 30px;
+  font-size: 20px;
+  background-color: red;
+  color: brown;
+}  
+canvas {
+  border:8px;
+  border-style: groove;
+  border-color: yellow;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px blue;
+}
+
+     
